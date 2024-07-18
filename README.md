@@ -9,3 +9,8 @@
 ##### 📝 - HTML + CSS
 
 👾 ... and i'm learning game development! 
+
+
+# ↗️ → ↘️
+# ↑   ↓
+# ↖️ ← ↙️
