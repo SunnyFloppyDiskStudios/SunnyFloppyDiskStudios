@@ -1,4 +1,5 @@
-![Slice](https://github.com/user-attachments/assets/56dc913b-4b02-4eb7-9f8d-81f6b8bf591c)
+![Group](https://github.com/user-attachments/assets/4d1fe87e-bb8c-4b91-bd12-9832145a93fb)
+
 
 # 😆 Hey there, I'm SunnyFlops and I do silly things
 ### 📹 You should go to [my youtube channel](youtube.com/@SunnyFlops) to check out what i'm up to!
