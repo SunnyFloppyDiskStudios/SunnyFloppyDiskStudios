@@ -6,7 +6,7 @@
 #### 💭 I have "experience" with:
 
 ##### 🏃‍♂️ - Lua + Luau
-##### 🏃‍♂ - Python
+##### 🐍 - Python
 ##### 📱 - Swift (SwiftUI)
 ##### 🎮 - C#
 ##### 🤖 - C++ (Arduino) 
