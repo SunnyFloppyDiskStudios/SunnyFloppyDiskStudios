@@ -11,9 +11,9 @@
 ##### 🤖 - C++ (Arduino) 
 ##### 📝 - HTML + CSS
 
-#### As well as general experience with:
+#### 💬 As well as general experience with:
 
-##### Game Development
-##### Website Development
-##### App Development
-##### Graphic Design
+##### 🎮 - Game Development
+##### 🌏 - Website Development
+##### 🖥️ - App Development
+##### ✏️ - Graphic Design
