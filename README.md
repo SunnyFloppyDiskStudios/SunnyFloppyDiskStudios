@@ -1,4 +1,4 @@
-![Group](https://github.com/user-attachments/assets/9ea51411-8830-47da-8fd9-484b4584174e)
+![Group](https://github.com/user-attachments/assets/bff0e2c5-9e74-499a-be04-0a9fe21383ba)
 
 # 😆 Hey there, I'm SunnyFlops and I do silly things
 ### 📹 You should go to [my youtube channel](youtube.com/@SunnyFlops) to check out what i'm up to!
