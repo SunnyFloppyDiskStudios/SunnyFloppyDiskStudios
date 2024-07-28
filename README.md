@@ -2,7 +2,7 @@
 
 # 😆 Hey there, I'm SunnyFlops and I do silly things
 
-#### 💭 I have "experience" with:
+#### 💭 I have lots of coding "experience" with:
 
 ##### 🏃‍♂️ - Lua + Luau
 ##### 🐍 - Python
@@ -11,4 +11,9 @@
 ##### 🤖 - C++ (Arduino) 
 ##### 📝 - HTML + CSS
 
-👾 ... and i'm learning game development! 
+#### As well as general experience with:
+
+##### Game Development
+##### Website Development
+##### App Development
+##### Graphic Design
