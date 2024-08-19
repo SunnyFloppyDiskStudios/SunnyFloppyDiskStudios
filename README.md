@@ -17,3 +17,9 @@
 ##### 🌏 - Website Development
 ##### 🖥️ - App Development
 ##### ✏️ - Graphic Design
+
+### Check out these too:
+
+##### ![YouTube Channel](https://www.youtube.com/@SunnyFlops)
+##### ![Roblox (profile)](https://www.roblox.com/users/986533440/profile)
+##### ![Roblox (talent hub)](https://create.roblox.com/talent/creators/986533440)
