@@ -1,4 +1,4 @@
-![Group](https://github.com/user-attachments/assets/267d2fe7-def5-4b71-916a-f0ded73a4bcb)
+<p align="left">![Group](https://github.com/user-attachments/assets/267d2fe7-def5-4b71-916a-f0ded73a4bcb)</p>
 
 # 😆 Hey there, I'm SunnyFlops
 
