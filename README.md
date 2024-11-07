@@ -10,6 +10,7 @@
 ##### 🎮 - C#
 ##### 🤖 - C++ (Arduino) 
 ##### 📝 - HTML + CSS
+_some engine specific languages too_
 
 ### 💬 As well as general experience with:
 
@@ -18,16 +19,14 @@
 ##### 🌏 - Website Development
 ##### ✏️ - _Illustative_ Graphic Design
 
-### 🔨 Tools I use and have used:
-##### 👾 Game Dev: Godot, Unity, Love2D, Corona2D, Roblox Studio
-##### ✍️ IDEs: Microsoft Visual Studio Code, Xcode, Brackets, Arduino IDE
-##### 🎨 Creative: Sketch for Mac, Adobe Creative Suite, Blender
+### 🔨 Favourite Tools:
+##### 👾 Game Dev: Unity, Godot, Love2D, Roblox Studio
+##### ✍️ IDEs: Jetbrains Rider, Xcode, Brackets
+##### 🎨 Creative: Sketch for Mac
 
 ### Check out these too:
 
 ##### [My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)
 ##### [YouTube Channel](https://www.youtube.com/@SunnyFlops)
-##### [Roblox (profile)](https://www.roblox.com/users/986533440/profile), [Roblox (talent hub)](https://create.roblox.com/talent/creators/986533440)
+##### [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
 ##### [Would link Credly, but privacy]
-
-_I made that banner :)_
