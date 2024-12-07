@@ -14,15 +14,10 @@ _some engine specific languages too_
 
 ### 💬 As well as general experience with:
 
-##### 🎮 - Game Development
-##### 🖥️ - App Development
-##### 🌏 - Website Development
-##### ✏️ - _Illustative_ Graphic Design
-
-### 🔨 Favourite Tools:
-##### 👾 Game Dev: Unity, Godot, Love2D, Roblox Studio
-##### ✍️ IDEs: Jetbrains Rider, Xcode, Brackets
-##### 🎨 Creative: Sketch for Mac
+##### 🎮 - Game Development (Unity, Godot, Roblox)
+##### 🖥️ - App Development (Xcode, Android Studio)
+##### 🌏 - Website Development (Brackets)
+##### ✏️ - _Illustative_ Graphic Design (Sketch)
 
 ### Check out these too:
 
@@ -31,4 +26,3 @@ _some engine specific languages too_
 ##### [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
 ##### [Itch IO](https://sunnyfloppydiskstudios.itch.io/)
 ##### [Community Discord]()
-##### [Would link Credly, but privacy]
