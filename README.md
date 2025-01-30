@@ -4,7 +4,7 @@
 <h3 align="center">I do many things</h3>
 
 ### 💭 My main languages are:
-##### C#, Swift, Lua & HTML/CSS
+**C#, Swift, Lua & HTML/CSS**
 I also use C++ and python
 
 ### 💬 I generally do:
