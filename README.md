@@ -5,14 +5,12 @@
 
 ### 💭 My main languages are:
 **C#, Swift, Lua & HTML/CSS**
+
 I also use C++ and python
 
 ### 💬 I generally do:
-##### 🎮 - Game Development (Unity, Godot, Roblox)
-##### 🖥️ - App Development (Xcode, Android Studio)
-##### 🌏 - Website Development (Brackets)
-##### ✏️ - Design (Sketch)
-##### 🧊 - 3D Modelling (Maya)
+##### 🎮 - Game, App, and Web Development (Unity, Xcode, Brackets)
+##### ✏️ - Design and Modelling (Sketch, Maya)
 
 ### Maybe check out these too?
 
