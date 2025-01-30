@@ -1,25 +1,20 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/267d2fe7-def5-4b71-916a-f0ded73a4bcb"></p>
 
 <h1 align="center">😆 Hey there, I'm SunnyFlops 👋</h1>
+<h3 align="center">I do many things</h3>
 
-### 💭 I have lots of coding experience & knowledge with:
+### 💭 My main languages are:
+##### C#, Swift, Lua & HTML/CSS
+I also use C++ and python
 
-##### 🏃‍♂️ - Lua + Luau
-##### 🐍 - Python (Certified x1)
-##### 📱 - Swift (Certified x2)
-##### 🎮 - C#
-##### 🤖 - C++ (Arduino) 
-##### 📝 - HTML + CSS
-_some engine specific languages too_
-
-### 💬 As well as general experience with:
-
+### 💬 I generally do:
 ##### 🎮 - Game Development (Unity, Godot, Roblox)
 ##### 🖥️ - App Development (Xcode, Android Studio)
 ##### 🌏 - Website Development (Brackets)
-##### ✏️ - _Illustative_ Graphic Design (Sketch)
+##### ✏️ - Design (Sketch)
+##### 🧊 - 3D Modelling (Maya)
 
-### Check out these too:
+### Maybe check out these too?
 
 ##### [My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)
 ##### [YouTube Channel](https://www.youtube.com/@SunnyFlops)
