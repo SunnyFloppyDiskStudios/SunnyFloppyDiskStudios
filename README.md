@@ -6,7 +6,7 @@
 ### 💭 My main languages are:
 **C#, Swift, Lua & HTML/CSS**
 
-I also use C++ and python
+_I also use C++ and python_
 
 ### 💬 I generally do:
 ##### 🎮 - Game, App, and Web Development (Unity, Xcode, Brackets)
@@ -18,4 +18,6 @@ I also use C++ and python
 ##### [YouTube Channel](https://www.youtube.com/@SunnyFlops)
 ##### [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
 ##### [Itch IO](https://sunnyfloppydiskstudios.itch.io/)
-##### [Community Discord]()
+##### [Sunny Floppy Disk studios Community Discord]()
+
+✉️ biskitscheez@gmail.com
