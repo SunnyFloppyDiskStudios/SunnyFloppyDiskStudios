@@ -14,10 +14,10 @@ _I also use C++ and python_
 
 ### Maybe check out these too?
 
-##### [My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)
-##### [YouTube Channel](https://www.youtube.com/@SunnyFlops)
-##### [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
-##### [Itch IO](https://sunnyfloppydiskstudios.itch.io/)
-##### [Sunny Floppy Disk studios Community Discord]()
+##### 📝 [My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)
+##### 🎥 [YouTube Channel](https://www.youtube.com/@SunnyFlops)
+##### ◆ [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
+##### 🕹️ [Itch IO](https://sunnyfloppydiskstudios.itch.io/)
+##### 💬 [Sunny Floppy Disk studios Community Discord]()
 
-✉️ biskitscheez@gmail.com
+##### ✉️ biskitscheez@gmail.com
