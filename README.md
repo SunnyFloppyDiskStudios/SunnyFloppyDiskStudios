@@ -18,6 +18,6 @@ _I also use C++ and python_
 ##### 🎥 [YouTube Channel](https://www.youtube.com/@SunnyFlops)
 ##### ◆ [Roblox Games](https://www.roblox.com/users/986533440/profile), [Roblox Collaborations](https://create.roblox.com/talent/creators/986533440)
 ##### 🕹️ [Itch IO](https://sunnyfloppydiskstudios.itch.io/)
-##### 💬 [Sunny Floppy Disk studios Community Discord]()
+##### 💬 [Sunny Floppy Disk Studios Community Discord](https://discord.gg/SGGnUUjf7P)
 
 ##### ✉️ biskitscheez@gmail.com
