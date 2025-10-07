@@ -15,17 +15,13 @@ _still in development actually, most things are borken_
 
 ##
 
-👨‍💻 I'm a teen student with years of technical background and knowledge
+👨‍💻 Teen student with years of technical background and knowledge
 
-My main projects relate with games and apps, so I mainly use Unity and Xcode.
-
-I generally use C#, Swift, Lua, HTML/CSS, but I can also do C++, Python, Java, JS, or anything!
-
-I also do graphic design, 3D modelling, and (sometimes) video editing!
+My main projects relate with games and apps dev, but I also do graphic design, 3D modelling, and (sometimes) video editing!
 
 ##
 
-### 🔨 Software of choice:
+### 🔨 Software of choice
 - Unity - Game Dev
 - Xcode - App Dev
 - Jetbrains - IDEs for literally anything
@@ -33,12 +29,13 @@ I also do graphic design, 3D modelling, and (sometimes) video editing!
 - Sketch - Graphic Design & Illustration
 - DaVinci Resolve - Video Editing
 
-### 👀 Maybe check out these too?
+### 👀 Take a look for yourself
 
 - **[My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)**
 - **[My Website](https://sunnyflops.net)**
-- **[Sunny Floppy Disk Studios Community (discord)](https://discord.gg/SGGnUUjf7P)**
 
 ##
+
+Contact me @
 
 ✉️ biskitscheez AT gmail DOT com
