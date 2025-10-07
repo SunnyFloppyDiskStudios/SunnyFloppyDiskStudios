@@ -15,11 +15,9 @@ _still in development actually, most things are borken_
 
 ##
 
-👨‍💻 Teen student with years of technical background and knowledge
+👨‍💻 Teen student with years of just coding for fun :)
 
 My main projects relate with games and apps dev, but I also do graphic design, 3D modelling, and (sometimes) video editing!
-
-##
 
 ### 🔨 Software of choice
 - Unity - Game Dev
@@ -28,6 +26,8 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 - Maya - 3D Modelling
 - Sketch - Graphic Design & Illustration
 - DaVinci Resolve - Video Editing
+
+##
 
 ### 👀 Take a look for yourself
 
@@ -39,3 +39,7 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 Contact me @
 
 ✉️ biskitscheez AT gmail DOT com
+
+##
+
+[![stats](https://github-readme-stats.vercel.app/api?username=sunnyfloppydiskstudios&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
