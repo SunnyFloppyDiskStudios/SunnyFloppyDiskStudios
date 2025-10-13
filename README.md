@@ -31,11 +31,8 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 
 ### Take a look for yourself
 
-- **[My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)**
-- **[My Website](https://sunnyflops.net)**
+[Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories) • [Website](https://sunnyflops.net)
 
 ##
 
-Contact me @
-
-`biskitscheez AT gmail DOT com`
+Contact me at `biskitscheez AT gmail DOT com`
