@@ -39,7 +39,3 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 Contact me @
 
 ✉️ biskitscheez AT gmail DOT com
-
-##
-
-[![stats](https://github-readme-stats.vercel.app/api?username=sunnyfloppydiskstudios&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
