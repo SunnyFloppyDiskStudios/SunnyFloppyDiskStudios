@@ -19,7 +19,7 @@ Teen student with years of just coding for fun :)
 
 My main projects relate with games and apps dev, but I also do graphic design, 3D modelling, and (sometimes) video editing!
 
-### 🔨 Software of choice
+### Software of choice
 - Unity - Game Dev
 - Xcode - App Dev
 - Jetbrains - IDEs for literally anything
@@ -29,7 +29,7 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 
 ##
 
-### 👀 Take a look for yourself
+### Take a look for yourself
 
 - **[My Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories)**
 - **[My Website](https://sunnyflops.net)**
@@ -38,4 +38,4 @@ My main projects relate with games and apps dev, but I also do graphic design, 3
 
 Contact me @
 
-✉️ biskitscheez AT gmail DOT com
+`biskitscheez AT gmail DOT com`
