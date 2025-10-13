@@ -4,18 +4,18 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        😆 Hey there, I'm SunnyFlops 👋
+        Hey there, I'm SunnyFlops!
       </h1>
     </summary>
   </ul>
 </div>
 
-### 🌏 Go check out my website! [sunnyflops.net](https://sunnyflops.net)
+### Go check out my website! [sunnyflops.net](https://sunnyflops.net)
 _still in development actually, most things are borken_
 
 ##
 
-👨‍💻 Teen student with years of just coding for fun :)
+Teen student with years of just coding for fun :)
 
 My main projects relate with games and apps dev, but I also do graphic design, 3D modelling, and (sometimes) video editing!
 
