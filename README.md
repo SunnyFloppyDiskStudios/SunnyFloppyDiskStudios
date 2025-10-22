@@ -13,26 +13,7 @@
 ### Go check out my website! [sunnyflops.net](https://sunnyflops.net)
 _still in development actually, most things are borken_
 
-##
+###
+###
 
-Teen student with years of just coding for fun :)
-
-My main projects relate with games and apps dev, but I also do graphic design, 3D modelling, and (sometimes) video editing!
-
-### Software of choice
-- Unity - Game Dev
-- Xcode - App Dev
-- Jetbrains - IDEs for literally anything
-- Maya - 3D Modelling
-- Sketch - Graphic Design & Illustration
-- DaVinci Resolve - Video Editing
-
-##
-
-### Take a look for yourself
-
-[Repos](https://github.com/SunnyFloppyDiskStudios?tab=repositories) • [Website](https://sunnyflops.net)
-
-##
-
-Contact me at `biskitscheez AT gmail DOT com`
+> Contact me at `biskitscheez AT gmail DOT com`
