@@ -16,4 +16,4 @@ _still in development actually, most things are borken_
 ###
 ###
 
-> Contact me at `biskitscheez AT gmail DOT com`
+> You can email me at `biskitscheez AT gmail DOT com`
