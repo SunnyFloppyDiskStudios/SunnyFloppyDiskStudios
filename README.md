@@ -10,8 +10,7 @@
   </ul>
 </div>
 
-### Go check out my website! [sunnyflops.net](https://sunnyflops.net)
-_still in development actually, most things are borken_
+### Check out my stuff @ [sunnyflops.net](https://sunnyflops.net)!
 
 ###
 ###
