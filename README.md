@@ -16,5 +16,4 @@ _still in development actually, most things are borken_
 ###
 ###
 
-> You can email me at `biskitscheez AT gmail DOT com`
-> I do not monitor this email often however.
+> You can email me at `biskitscheez AT gmail DOT com` however I do not often monitor the inbox.
